@@ -11,8 +11,6 @@ import pandas
 import pylab
 import matplotlib.pyplot as plt
 
-#df = ABT_BRAND_TXN_ALLcsv
-
 def f(t):
     return np.exp(-t) * np.cos(2*np.pi*t)
     
